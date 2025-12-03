@@ -103,3 +103,17 @@ After completing Class 1, continue to:
 - **Class 3**: Trading & Investing Strategies
 - **Class 4**: Taxes & Portfolio Maintenance
 - **Class 5**: Trading Business & Advanced Topics
+
+---
+
+## Disclaimer
+
+**This content is for educational purposes only and does not constitute financial advice.**
+
+- Past performance is not indicative of future results
+- All investments involve risk, including the possible loss of principal
+- The examples and strategies discussed are illustrative only
+- Always consult with a qualified financial advisor before making investment decisions
+- The authors and contributors are not responsible for any financial losses incurred
+
+**Do your own research. Trade responsibly.**
