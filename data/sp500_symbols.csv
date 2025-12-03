@@ -1,0 +1,100 @@
+Symbol,Name,Sector,Exchange
+AAPL,Apple Inc.,Technology,NASDAQ
+MSFT,Microsoft Corporation,Technology,NASDAQ
+GOOGL,Alphabet Inc. Class A,Technology,NASDAQ
+AMZN,Amazon.com Inc.,Consumer Discretionary,NASDAQ
+NVDA,NVIDIA Corporation,Technology,NASDAQ
+META,Meta Platforms Inc.,Technology,NASDAQ
+TSLA,Tesla Inc.,Consumer Discretionary,NASDAQ
+BRK-B,Berkshire Hathaway Inc. Class B,Financials,NYSE
+UNH,UnitedHealth Group Incorporated,Health Care,NYSE
+JNJ,Johnson & Johnson,Health Care,NYSE
+JPM,JPMorgan Chase & Co.,Financials,NYSE
+V,Visa Inc.,Financials,NYSE
+PG,Procter & Gamble Company,Consumer Staples,NYSE
+XOM,Exxon Mobil Corporation,Energy,NYSE
+HD,The Home Depot Inc.,Consumer Discretionary,NYSE
+MA,Mastercard Incorporated,Financials,NYSE
+CVX,Chevron Corporation,Energy,NYSE
+MRK,Merck & Co. Inc.,Health Care,NYSE
+ABBV,AbbVie Inc.,Health Care,NYSE
+LLY,Eli Lilly and Company,Health Care,NYSE
+PEP,PepsiCo Inc.,Consumer Staples,NASDAQ
+KO,The Coca-Cola Company,Consumer Staples,NYSE
+COST,Costco Wholesale Corporation,Consumer Staples,NASDAQ
+AVGO,Broadcom Inc.,Technology,NASDAQ
+WMT,Walmart Inc.,Consumer Staples,NYSE
+MCD,McDonald's Corporation,Consumer Discretionary,NYSE
+CSCO,Cisco Systems Inc.,Technology,NASDAQ
+TMO,Thermo Fisher Scientific Inc.,Health Care,NYSE
+ABT,Abbott Laboratories,Health Care,NYSE
+ACN,Accenture plc,Technology,NYSE
+DHR,Danaher Corporation,Health Care,NYSE
+NEE,NextEra Energy Inc.,Utilities,NYSE
+NKE,NIKE Inc.,Consumer Discretionary,NYSE
+DIS,The Walt Disney Company,Communication Services,NYSE
+VZ,Verizon Communications Inc.,Communication Services,NYSE
+ADBE,Adobe Inc.,Technology,NASDAQ
+TXN,Texas Instruments Incorporated,Technology,NASDAQ
+PM,Philip Morris International Inc.,Consumer Staples,NYSE
+CMCSA,Comcast Corporation,Communication Services,NASDAQ
+INTC,Intel Corporation,Technology,NASDAQ
+WFC,Wells Fargo & Company,Financials,NYSE
+COP,ConocoPhillips,Energy,NYSE
+BMY,Bristol-Myers Squibb Company,Health Care,NYSE
+UPS,United Parcel Service Inc.,Industrials,NYSE
+RTX,RTX Corporation,Industrials,NYSE
+ORCL,Oracle Corporation,Technology,NYSE
+QCOM,QUALCOMM Incorporated,Technology,NASDAQ
+AMD,Advanced Micro Devices Inc.,Technology,NASDAQ
+IBM,International Business Machines Corporation,Technology,NYSE
+GE,General Electric Company,Industrials,NYSE
+CAT,Caterpillar Inc.,Industrials,NYSE
+BA,The Boeing Company,Industrials,NYSE
+GS,The Goldman Sachs Group Inc.,Financials,NYSE
+MS,Morgan Stanley,Financials,NYSE
+BLK,BlackRock Inc.,Financials,NYSE
+SCHW,The Charles Schwab Corporation,Financials,NYSE
+AXP,American Express Company,Financials,NYSE
+C,Citigroup Inc.,Financials,NYSE
+DE,Deere & Company,Industrials,NYSE
+LOW,Lowe's Companies Inc.,Consumer Discretionary,NYSE
+SPGI,S&P Global Inc.,Financials,NYSE
+MDLZ,Mondelez International Inc.,Consumer Staples,NASDAQ
+SYK,Stryker Corporation,Health Care,NYSE
+ISRG,Intuitive Surgical Inc.,Health Care,NASDAQ
+ADI,Analog Devices Inc.,Technology,NASDAQ
+BKNG,Booking Holdings Inc.,Consumer Discretionary,NASDAQ
+GILD,Gilead Sciences Inc.,Health Care,NASDAQ
+ADP,Automatic Data Processing Inc.,Industrials,NASDAQ
+VRTX,Vertex Pharmaceuticals Incorporated,Health Care,NASDAQ
+MMC,Marsh & McLennan Companies Inc.,Financials,NYSE
+PLD,Prologis Inc.,Real Estate,NYSE
+REGN,Regeneron Pharmaceuticals Inc.,Health Care,NASDAQ
+CB,Chubb Limited,Financials,NYSE
+AMT,American Tower Corporation,Real Estate,NYSE
+LRCX,Lam Research Corporation,Technology,NASDAQ
+SBUX,Starbucks Corporation,Consumer Discretionary,NASDAQ
+ETN,Eaton Corporation plc,Industrials,NYSE
+ZTS,Zoetis Inc.,Health Care,NYSE
+CME,CME Group Inc.,Financials,NASDAQ
+NOW,ServiceNow Inc.,Technology,NYSE
+PANW,Palo Alto Networks Inc.,Technology,NASDAQ
+MU,Micron Technology Inc.,Technology,NASDAQ
+CI,The Cigna Group,Health Care,NYSE
+BSX,Boston Scientific Corporation,Health Care,NYSE
+SO,The Southern Company,Utilities,NYSE
+DUK,Duke Energy Corporation,Utilities,NYSE
+CL,Colgate-Palmolive Company,Consumer Staples,NYSE
+PNC,The PNC Financial Services Group Inc.,Financials,NYSE
+ICE,Intercontinental Exchange Inc.,Financials,NYSE
+TGT,Target Corporation,Consumer Discretionary,NYSE
+MCO,Moody's Corporation,Financials,NYSE
+FDX,FedEx Corporation,Industrials,NYSE
+SNPS,Synopsys Inc.,Technology,NASDAQ
+SHW,The Sherwin-Williams Company,Materials,NYSE
+CDNS,Cadence Design Systems Inc.,Technology,NASDAQ
+USB,U.S. Bancorp,Financials,NYSE
+EOG,EOG Resources Inc.,Energy,NYSE
+EMR,Emerson Electric Co.,Industrials,NYSE
+TJX,The TJX Companies Inc.,Consumer Discretionary,NYSE

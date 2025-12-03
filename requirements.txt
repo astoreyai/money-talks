@@ -1,0 +1,21 @@
+# Money Talks - Trading Education Platform
+# Compatible with Google Colab
+
+# Data
+yfinance>=0.2.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+mplfinance>=0.12.0
+
+# Interactive widgets (for quizzes)
+ipywidgets>=8.0.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
