@@ -11,45 +11,55 @@ Build a solid foundation in financial markets - 20 lessons over 4 weeks.
 | 3 | Accounts & Orders | 5 | Complete |
 | 4 | Charts & Psychology | 5 | Complete |
 
+---
+
 ## Week 1: Market Basics
 
-| Day | Lesson | Description |
-|-----|--------|-------------|
-| 1 | [What Are Markets](week1_market_basics/day01_what_are_markets.ipynb) | Markets, primary/secondary, price discovery |
-| 2 | [Exchanges](week1_market_basics/day02_exchanges.ipynb) | NYSE vs NASDAQ, market makers, spreads |
-| 3 | [Market Hours](week1_market_basics/day03_market_hours.ipynb) | Trading sessions, pre/after hours, global markets |
-| 4 | [Participants](week1_market_basics/day04_market_participants.ipynb) | Retail, institutional, regulators |
-| 5 | [Week 1 Review](week1_market_basics/day05_week1_review.ipynb) | Review, paper trading, dashboard project |
+| Day | Lesson | Colab |
+|-----|--------|-------|
+| 1 | [What Are Markets](week1_market_basics/day01_what_are_markets.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week1_market_basics/day01_what_are_markets.ipynb) |
+| 2 | [Exchanges](week1_market_basics/day02_exchanges.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week1_market_basics/day02_exchanges.ipynb) |
+| 3 | [Market Hours](week1_market_basics/day03_market_hours.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week1_market_basics/day03_market_hours.ipynb) |
+| 4 | [Participants](week1_market_basics/day04_market_participants.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week1_market_basics/day04_market_participants.ipynb) |
+| 5 | [Week 1 Review](week1_market_basics/day05_week1_review.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week1_market_basics/day05_week1_review.ipynb) |
+
+---
 
 ## Week 2: Asset Classes
 
-| Day | Lesson | Description |
-|-----|--------|-------------|
-| 6 | [Stocks](week2_asset_classes/day06_stocks.ipynb) | Equity ownership, dividends, P/E ratio |
-| 7 | [Bonds](week2_asset_classes/day07_bonds.ipynb) | Debt securities, yields, interest rate relationship |
-| 8 | [ETFs](week2_asset_classes/day08_etfs.ipynb) | Exchange-traded funds, index tracking, expense ratios |
-| 9 | [Mutual Funds](week2_asset_classes/day09_mutual_funds.ipynb) | NAV, active vs passive, fee impact |
-| 10 | [Derivatives Intro](week2_asset_classes/day10_derivatives_intro.ipynb) | Options and futures basics, leverage |
+| Day | Lesson | Colab |
+|-----|--------|-------|
+| 6 | [Stocks](week2_asset_classes/day06_stocks.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week2_asset_classes/day06_stocks.ipynb) |
+| 7 | [Bonds](week2_asset_classes/day07_bonds.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week2_asset_classes/day07_bonds.ipynb) |
+| 8 | [ETFs](week2_asset_classes/day08_etfs.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week2_asset_classes/day08_etfs.ipynb) |
+| 9 | [Mutual Funds](week2_asset_classes/day09_mutual_funds.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week2_asset_classes/day09_mutual_funds.ipynb) |
+| 10 | [Derivatives Intro](week2_asset_classes/day10_derivatives_intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week2_asset_classes/day10_derivatives_intro.ipynb) |
+
+---
 
 ## Week 3: Accounts & Orders
 
-| Day | Lesson | Description |
-|-----|--------|-------------|
-| 11 | [Brokerage Accounts](week3_accounts_orders/day11_brokerage_accounts.ipynb) | Cash vs margin, PDT rule, SIPC |
-| 12 | [Order Types I](week3_accounts_orders/day12_order_types_1.ipynb) | Market and limit orders, bid-ask spread |
-| 13 | [Order Types II](week3_accounts_orders/day13_order_types_2.ipynb) | Stop, stop-limit, trailing stops |
-| 14 | [Order Execution](week3_accounts_orders/day14_order_execution.ipynb) | Slippage, PFOF, best execution |
-| 15 | [Week 3 Review](week3_accounts_orders/day15_week3_review.ipynb) | Order management simulator project |
+| Day | Lesson | Colab |
+|-----|--------|-------|
+| 11 | [Brokerage Accounts](week3_accounts_orders/day11_brokerage_accounts.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week3_accounts_orders/day11_brokerage_accounts.ipynb) |
+| 12 | [Order Types I](week3_accounts_orders/day12_order_types_1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week3_accounts_orders/day12_order_types_1.ipynb) |
+| 13 | [Order Types II](week3_accounts_orders/day13_order_types_2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week3_accounts_orders/day13_order_types_2.ipynb) |
+| 14 | [Order Execution](week3_accounts_orders/day14_order_execution.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week3_accounts_orders/day14_order_execution.ipynb) |
+| 15 | [Week 3 Review](week3_accounts_orders/day15_week3_review.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week3_accounts_orders/day15_week3_review.ipynb) |
+
+---
 
 ## Week 4: Charts & Psychology
 
-| Day | Lesson | Description |
-|-----|--------|-------------|
-| 16 | [Candlesticks](week4_charts_psychology/day16_candlesticks.ipynb) | OHLC, candlestick patterns, interpretation |
-| 17 | [Volume](week4_charts_psychology/day17_volume.ipynb) | Volume analysis, OBV, confirmation |
-| 18 | [Timeframes](week4_charts_psychology/day18_timeframes.ipynb) | Multi-timeframe analysis, trend alignment |
-| 19 | [Trading Psychology](week4_charts_psychology/day19_trading_psychology.ipynb) | Emotions, discipline, journaling |
-| 20 | [Class 1 Final](week4_charts_psychology/day20_class1_final.ipynb) | Comprehensive review and dashboard project |
+| Day | Lesson | Colab |
+|-----|--------|-------|
+| 16 | [Candlesticks](week4_charts_psychology/day16_candlesticks.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week4_charts_psychology/day16_candlesticks.ipynb) |
+| 17 | [Volume](week4_charts_psychology/day17_volume.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week4_charts_psychology/day17_volume.ipynb) |
+| 18 | [Timeframes](week4_charts_psychology/day18_timeframes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week4_charts_psychology/day18_timeframes.ipynb) |
+| 19 | [Trading Psychology](week4_charts_psychology/day19_trading_psychology.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week4_charts_psychology/day19_trading_psychology.ipynb) |
+| 20 | [Class 1 Final](week4_charts_psychology/day20_class1_final.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week4_charts_psychology/day20_class1_final.ipynb) |
+
+---
 
 ## Learning Path
 
@@ -68,7 +78,7 @@ Build a solid foundation in financial markets - 20 lessons over 4 weeks.
 ## How to Use
 
 ### Google Colab (Recommended)
-1. Click the "Open in Colab" badge in any notebook
+1. Click the "Open in Colab" badge next to any lesson
 2. Run the setup cell first
 3. Follow along with the lesson
 
