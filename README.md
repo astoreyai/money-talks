@@ -4,14 +4,14 @@ A comprehensive 5-class trading and investing curriculum delivered through inter
 
 ## Overview
 
-| Class | Topic | Lessons |
-|-------|-------|---------|
-| 1 | Trading & Investing Fundamentals | 20 |
-| 2 | Technical Indicators & Analysis | 20 |
-| 3 | Trading & Investing Strategies | 20 |
-| 4 | Taxes & Portfolio Maintenance | 20 |
-| 5 | Trading Business & Advanced Topics | 20 |
-| **Total** | | **100 notebooks** |
+| Class | Topic | Lessons | Start Here |
+|-------|-------|---------|------------|
+| 1 | [Trading & Investing Fundamentals](class1_fundamentals/) | 20 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class1_fundamentals/week1_market_basics/day01_what_are_markets.ipynb) |
+| 2 | [Technical Indicators & Analysis](class2_technical_analysis/) | 20 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class2_technical_analysis/week1_trend_indicators/day01_moving_averages.ipynb) |
+| 3 | [Trading & Investing Strategies](class3_trading_strategies/) | 20 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class3_trading_strategies/week1_active_trading/day01_day_trading_basics.ipynb) |
+| 4 | [Taxes & Portfolio Maintenance](class4_taxes_portfolio/) | 20 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class4_taxes_portfolio/week1_capital_gains/day01_intro_investment_taxes.ipynb) |
+| 5 | [Trading Business & Advanced Topics](class5_trading_business/) | 20 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/money-talks/blob/main/class5_trading_business/week1_trader_tax_status/day01_intro_trader_tax.ipynb) |
+| **Total** | | **100 notebooks** | |
 
 **Format**: 30 min lecture + 15 min hands-on per lesson (45 min/day)
 **Total Runtime**: 75 hours of instruction
@@ -99,15 +99,31 @@ All exercises use **S&P 500 stocks** via `yfinance`. No API keys required.
 money-talks/
 ├── README.md
 ├── requirements.txt
-├── class1_fundamentals/
+├── class1_fundamentals/           # 20 notebooks
 │   ├── week1_market_basics/
 │   ├── week2_asset_classes/
 │   ├── week3_accounts_orders/
 │   └── week4_charts_psychology/
-├── class2_indicators/
-├── class3_strategies/
-├── class4_taxes/
-├── class5_business/
+├── class2_technical_analysis/     # 20 notebooks
+│   ├── week1_trend_indicators/
+│   ├── week2_momentum_volatility/
+│   ├── week3_volume_patterns/
+│   └── week4_support_resistance/
+├── class3_trading_strategies/     # 20 notebooks
+│   ├── week1_active_trading/
+│   ├── week2_position_trend/
+│   ├── week3_value_growth/
+│   └── week4_options_basics/
+├── class4_taxes_portfolio/        # 20 notebooks
+│   ├── week1_capital_gains/
+│   ├── week2_tax_accounts/
+│   ├── week3_tax_optimization/
+│   └── week4_portfolio_risk/
+├── class5_trading_business/       # 20 notebooks
+│   ├── week1_trader_tax_status/
+│   ├── week2_trading_entities/
+│   ├── week3_mtm_deductions/
+│   └── week4_compliance_automation/
 ├── utils/
 │   ├── data_helpers.py
 │   ├── chart_helpers.py
